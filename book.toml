@@ -1,0 +1,8 @@
+[book]
+authors = ["Sam Polgar"]
+language = "en"
+src = "src"
+title = "zk_book"
+
+[output.html]
+mathjax-support = true
