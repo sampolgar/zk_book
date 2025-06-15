@@ -1,13 +1,11 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)`
-- [My First Chapter](my-first-chapter.md)
+[Introduction](README.md)
+
+[A Prefix Chapter](markdown.md)
+
+- [Chapter 1](./chapter_1.md)
 - [Nested example](nested/README.md)
   - [Sub-chapter](nested/sub-chapter.md)
-
-$x^2$
-$$\{x^2\}_2$$
-
-\\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
-
-$$( \int x dx = \frac{x^2}{2} + C)$$
+- [Computational Complexity](cc/README.md)
+  - [Sub-chapter](cc/languages.md)
